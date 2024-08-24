@@ -6,27 +6,27 @@ import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
 
 const baseSiteConfig = {
-  name: "Landing page boilerplate",
+  name: "AutoSwitchPrompt",
   description:
-    "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour.",
-  url: "https://landingpage.weijunext.com",
+    "Effortless Personalization: AutoSwitchPrompt seamlessly tailors your favorite prompts to each page.",
+  url: "https://autoswitchprompt.learnprompt.pro/",
   ogImage: "https://landingpage.weijunext.com/og.png",
   metadataBase: '/',
-  keywords: ["landing page boilerplate", "landing page template", "awesome landing page", "next.js landing page"],
+  keywords: ["Prompts Assistant", "Prompt Manager", "Automation", "AI compose", "AI Copilot", "ChatGPT for Google", "AI extension"],
   authors: [
     {
-      name: "weijunext",
-      url: "https://weijunext.com",
-      twitter: 'https://twitter.com/weijunext',
+      name: "casperlee",
+      url: "https://www.learnprompt.pro",
+      twitter: 'https://x.com/aiwarts',
     }
   ],
-  creator: '@weijunext',
-  openSourceURL: 'https://github.com/weijunext/landing-page-boilerplate',
+  creator: '@casperlee',
+  openSourceURL: 'https://github.com/LearnPrompt/AutoSwitchPrompt-landing-page',
   themeColors: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' },
   ],
-  nextThemeColor: 'dark', // next-theme option: system | dark | light
+  nextThemeColor: 'system', // next-theme option: system | dark | light
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
@@ -34,24 +34,20 @@ const baseSiteConfig = {
   },
   headerLinks: [
     { name: 'repo', href: OPEN_SOURCE_URL, icon: BsGithub },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
+    { name: 'twitter', href: "https://x.com/aiwarts", icon: BsTwitterX },
+    { name: 'buyMeCoffee', href: "https://buymeacoffee.com/casperlee", icon: SiBuymeacoffee }
   ],
   footerLinks: [
-    { name: 'email', href: "mailto:weijunext@gmail.com", icon: MdEmail },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
-    { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
-    { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    { name: 'email', href: "mailto:learnprompt2023@gmail.com", icon: MdEmail },
+    { name: 'twitter', href: "https://x.com/aiwarts", icon: BsTwitterX },
+    { name: 'github', href: "https://github.com/LearnPrompt", icon: BsGithub },
+    { name: 'buyMeCoffee', href: "https://buymeacoffee.com/casperlee", icon: SiBuymeacoffee },
+    { name: 'weChat', href: "https://www.learnprompt.pro/multimedia", icon: BsWechat }
   ],
   footerProducts: [
     { url: 'https://phcopilot.ai/', name: 'Product Hunt Copilot' },
-    { url: 'https://smartexcel.cc/', name: 'Smart Excel' },
-    { url: 'https://landingpage.weijunext.com/', name: 'Landing Page Boilerplate' },
-    { url: 'https://starter.weijunext.com/', name: 'Next.js Starter' },
-    { url: 'https://weijunext.com/', name: 'J实验室' },
-    { url: 'https://nextjs.weijunext.com/', name: 'Next.js Practice' },
+    { url: 'https://www.learnprompt.pro/', name: 'Learn Prompt' },
+    { url: 'https://autoswitchprompt.learnprompt.pro/', name: 'AutoSwitchPrompt' },
     { url: 'https://github.com/weijunext/indie-hacker-tools', name: 'Indie Hacker Tools' },
   ]
 }
