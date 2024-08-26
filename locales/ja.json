@@ -1,16 +1,16 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "ランディングページ",
-    "title3": "迅速に構築",
-    "description": "無料でオープンソースかつ強力なランディングページのテンプレート。さまざまなプロジェクトに理想的で、1時間以内にランディングページを作成できます。"
+    "title1": "自動",
+    "title2": "切り替え",
+    "title3": "プロンプト",
+    "description": "ページごとに最適なAIプロンプトを自動で無料で取得できます。"
   },
   "SocialProof": {
-    "maker": "開発者が迅速に出荷"
+    "maker": "ChatGPT/OpenAIキー/Claude3.5/GPT4o/Gemini Proを活用"
   },
   "Showcase": {
     "title": "Showcase",
-    "description": "1000人以上のクリエイターが利用中！コンバージョン率アップを実現するランディングページテンプレート"
+    "description": ",000人以上のユーザーが自動切り替え機能と状況に応じたプロンプトでウェブ体験を向上させています"
   },
   "Feature": {
     "title": "Feature"
@@ -18,13 +18,13 @@
   "Pricing": {
     "title": "価格設定",
     "title2": "無制限アクセスを取得。",
-    "description": "現在閲覧中のページは、オープンソースで無料のテンプレートです。",
-    "doYouLike": "このランディングページのテンプレートは気に入りましたか？",
+    "description": "現在ご覧のページは、オープンソースの無料ブラウザ拡張機能です。",
+    "doYouLike": "この製品はいかがでしたか？",
     "follow": "私のTwitterをフォローしてください。"
   },
   "Testimonials": {
     "title": "Testimonials",
-    "description1": "このランディングページテンプレートを使用してTwitterで推奨した場合、",
+    "description1": "この製品を使用してTwitterで推奨していただける場合は、",
     "description2": "私に知らせてください",
     "description3": "。あなたのツイートと推薦をここに表示します。"
   },
@@ -33,15 +33,15 @@
     "description": "最も頻繁に尋ねられる質問はこちらです。"
   },
   "CTA": {
-    "title": "今すぐあなたのランディングページを構築",
-    "description1": "あなたのランディングページを",
-    "description2": "構築し、",
-    "description3": "あなたの製品を",
-    "description4": "紹介し、そして",
-    "description5": "収益を得始めましょう",
-    "description6": "！"
+    "title": "AIでブラウジング体験を向上させよう",
+    "description1": "AutoSwitchPromptを",
+    "description2": "無料でインストール、",
+    "description3": "お好みのAIプロンプトを",
+    "description4": "カスタマイズして、",
+    "description5": "より賢く",
+    "description6": "ブラウジング！"
   },
   "CTAButton": {
-    "title": "テンプレートを入手"
+    "title": "Chromeに追加 - 無料です"
   }
 }

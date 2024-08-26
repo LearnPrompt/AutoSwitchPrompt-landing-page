@@ -1,15 +1,16 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "Página de aterrizaje",
-    "title3": "construcción rápida"
+    "title1": "Auto",
+    "title2": "Switch",
+    "title3": "Prompt",
+    "description": "Obtén tu prompt de IA favorito para cada página, de forma automática y gratuita."
   },
   "SocialProof": {
-    "maker": "creadores construyen rápido"
+    "maker": "Impulsado por ChatGPT/Clave de OpenAI/Claude3.5/GPT4o/Gemini Pro"
   },
   "Showcase": {
     "title": "Escaparate",
-    "description": "Únete a más de 1000 creadores que aumentan sus conversiones con nuestra plantilla de página de aterrizaje"
+    "description": "Únete a más de 1.000 usuarios que mejoran su experiencia web con prompts automáticos y contextuales"
   },
   "Feature": {
     "title": "Características"
@@ -17,13 +18,13 @@
   "Pricing": {
     "title": "Precios",
     "title2": "Obtén acceso ilimitado.",
-    "description": "La página que estás viendo actualmente es un template gratuito y de código abierto.",
-    "doYouLike": "¿Te gusta este template para páginas de aterrizaje?",
+    "description":  "La página que estás viendo actualmente es una extensión de navegador gratuita y de código abierto.",
+    "doYouLike": "¿Te gusta este producto?",
     "follow": "Sigue mi Twitter."
   },
   "Testimonials": {
     "title": "Muro del Amor",
-    "description1": "Si usas esta plantilla para página de aterrizaje y la recomiendas en tu Twitter,",
+    "description1": "Si usas este producto y lo recomiendas en tu Twitter,",
     "description2": "por favor házmelo saber",
     "description3": ". Exhibiré tu tweet y recomendación aquí."
   },
@@ -32,15 +33,15 @@
     "description": "Aquí están algunas de las preguntas más frecuentes."
   },
   "CTA": {
-    "title": "Construye tu página de aterrizaje ahora",
-    "description1": "Construye",
-    "description2": "tu página de aterrizaje,",
-    "description3": "muestra",
-    "description4": "tu producto, y",
-    "description5": "comienza a ganar",
-    "description6": "¡dinero!"
+    "title": "Mejora tu navegación con IA",
+    "description1": "Instala",
+    "description2": "AutoSwitchPrompt gratis,",
+    "description3": "Personaliza",
+    "description4": "tus prompts de IA favoritos,",
+    "description5": "Navega",
+    "description6": "de forma más inteligente"
   },
   "CTAButton": {
-    "title": "Obtener Plantilla"
+    "title": "Añadir a Chrome - Es gratis"
   }
 }
