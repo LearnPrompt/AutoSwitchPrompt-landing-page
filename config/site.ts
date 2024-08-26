@@ -1,14 +1,15 @@
-import { SiteConfig } from "@/types/siteConfig";
 import { BsGithub, BsTwitterX, BsWechat } from "react-icons/bs";
+
 import { MdEmail } from "react-icons/md";
-import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
+import { SiBuymeacoffee } from "react-icons/si";
+import { SiteConfig } from "@/types/siteConfig";
 
 const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
 
 const baseSiteConfig = {
   name: "AutoSwitchPrompt",
   description:
-    "Effortless Personalization: AutoSwitchPrompt seamlessly tailors your favorite prompts to each page.",
+    "AutoSwitchPrompt is a free, intelligent browser extension that revolutionizes your web browsing experience. It automatically tailors your favorite AI prompts to each webpage you visit. Experience the future of web browsing with context-aware AI prompts, all automatically and free. Powered by GPT-4o, Claude-3.5, Gemini-1.5, Llama-3.1, Mistral.",
   url: "https://autoswitchprompt.learnprompt.pro/",
   ogImage: "https://landingpage.weijunext.com/og.png",
   metadataBase: '/',

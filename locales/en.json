@@ -1,16 +1,16 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Auto",
+    "title2": "Switch",
+    "title3": "Prompt",
+    "description": "Get your favorite AI prompt for every page, automatically and free."
   },
   "SocialProof": {
-    "maker": "makers ship fast"
+    "maker": "Powered By ChatGPT/OpenAI Key/Claude3.5/GPT4o/Gemini Pro"
   },
   "Showcase": {
     "title": "Showcase",
-    "description": "Join 1000+ Makers Boosting Conversions with Our Landing Page Boilerplate"
+    "description": "Join 1,000+ users enhancing their web experience with auto-switching, context-aware prompts"
   },
   "Feature": {
     "title": "Features"
@@ -18,13 +18,13 @@
   "Pricing": {
     "title": "Pricing",
     "title2": "Get unlimited access.",
-    "description": "The page you are currently viewing is an open-source, free boilerplate.",
-    "doYouLike": "Do you like this landing page boilerplate?",
+    "description": "The page you are currently viewing is an open-source, free Browser extension.",
+    "doYouLike": "Do you like this product?",
     "follow": "Follow my Twitter."
   },
   "Testimonials": {
     "title": "Testimonials",
-    "description1": "If you use this landing page template and recommend it on your Twitter,",
+    "description1": "If you use this product and recommend it on your Twitter,",
     "description2": "please let me know",
     "description3": ". I will display your tweet and recommendation here."
   },
@@ -33,15 +33,15 @@
     "description": "Here are some of the most frequently asked questions."
   },
   "CTA": {
-    "title": "Build Your Landing Page Now",
-    "description1": "Build",
-    "description2": "your landing page,",
-    "description3": "show",
-    "description4": "your product, and",
-    "description5": "start earning",
-    "description6": "!"
+    "title": "Enhance Your Browsing with AI",
+    "description1": "Install",
+    "description2": "AutoSwitchPrompt free,",
+    "description3": "Customize",
+    "description4": "your favorite AI prompts,",
+    "description5": "Browse",
+    "description6": "smarter!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Add to Chrome - It's free"
   }
 }
