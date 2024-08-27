@@ -1,211 +1,118 @@
-import { LucideIcon, MagnetIcon } from "lucide-react";
+import { BsDownload, BsFillGearFill, BsFillLightbulbFill } from "react-icons/bs";
+
 import { IconType } from "react-icons";
-import { BsGithub } from "react-icons/bs";
-import { FaToolbox } from "react-icons/fa";
-import { FaEarthAsia, FaMobileScreenButton } from "react-icons/fa6";
-import { MdCloudUpload } from "react-icons/md";
+import { LucideIcon } from "lucide-react";
 
 export const FEATURES_EN = [
   {
-    title: "Open Source Advantage",
-    content: "Completely free with a wealth of customization options.",
-    icon: BsGithub,
+    title: "STEP 1 - Add to browser",
+    content: "Add AutoSwitchPrompt extension to your browser. It's free, privacy-friendly, and ready to enhance your web browsing with smart AI prompts.",
+    icon: BsDownload,
   },
   {
-    title: "Responsive Design",
+    title: "STEP 2 - Customize your prompts",
     content:
-      "Templates meticulously designed to ensure optimal display on any device.",
-    icon: FaMobileScreenButton,
+      "Set up your favorite AI prompts for for various websites. AutoSwitchPrompt will automatically apply the right prompt for each page you visit.",
+    icon: BsFillGearFill,
   },
   {
-    title: "Easy Customization",
+    title: "STEP 3 - Enjoy smarter browsing",
     content:
-      "Effortlessly change colors, fonts, and layouts without any coding knowledge.",
-    icon: FaToolbox,
-  },
-  {
-    title: "SEO Optimized",
-    content:
-      "Templates built with search engine optimization in mind to enhance your website's discoverability.",
-    icon: MagnetIcon,
-  },
-  {
-    title: "One-Click Deployment",
-    content:
-      "Tightly integrated with leading web hosting services for instant website publishing.",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "Globalization Support",
-    content:
-      "Supports multiple languages, making your website attractive to a global audience.",
-    icon: FaEarthAsia,
-  },
+      "Experience seamless, context-aware AI assistance across the web, boosting your productivity without any extra effort.",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 export const FEATURES_ZH = [
   {
-    title: "开源优势",
-    content: "完全免费，提供丰富的自定义选项。",
-    icon: BsGithub,
+    title: "步骤 1 - 添加到浏览器",
+    content: "一键安装 AutoSwitchPrompt 扩展程序。完全免费，保护隐私，立即提升您的网页浏览体验。",
+    icon: BsDownload,
   },
   {
-    title: "响应式设计",
-    content: "精心设计的模板，确保在任何设备上都能优化显示。",
-    icon: FaMobileScreenButton,
+    title: "步骤 2 - 定制您的提示",
+    content:
+      "轻松设置适用于不同网站的 AI 提示。AutoSwitchPrompt 会根据您浏览的页面自动切换最合适的提示。",
+    icon: BsFillGearFill,
   },
   {
-    title: "易于定制",
-    content: "轻松更改颜色、字体和布局，无需任何编码知识。",
-    icon: FaToolbox,
-  },
-  {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
-    icon: MagnetIcon,
-  },
-  {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
-    icon: FaEarthAsia,
-  },
+    title: "步骤 3 - 尽享智能浏览",
+    content:
+      "体验智能 AI 助手在各类网站的无缝协作，轻松提升工作效率。",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 export const FEATURES_JA = [
   {
-    title: "オープンソースの利点",
-    content: "完全無料で、豊富なカスタマイズオプションを提供。",
-    icon: BsGithub,
+    title: "ステップ 1 - ブラウザに追加",
+    content: "AutoSwitchPrompt拡張機能をワンクリックでインストール。完全無料でプライバシーに配慮し、ウェブブラウジング体験を即座に向上させます。",
+    icon: BsDownload,
   },
   {
-    title: "レスポンシブデザイン",
-    content: "どのデバイス上でも最適に表示されるように細心のデザインを施したテンプレート。",
-    icon: FaMobileScreenButton,
+    title: "ステップ 2 - プロンプトをカスタマイズ",
+    content: "様々なウェブサイト用のAIプロンプトを簡単に設定。AutoSwitchPromptが訪れるページごとに最適なプロンプトを自動的に適用します。",
+    icon: BsFillGearFill,
   },
   {
-    title: "簡単カスタマイズ",
-    content: "色、フォント、レイアウトをコーディング知識なしで簡単に変更可能。",
-    icon: FaToolbox,
-  },
-  {
-    title: "SEO最適化",
-    content: "ウェブサイトの発見可能性を高めるために、検索エンジン最適化を念頭に置いて構築されたテンプレート。",
-    icon: MagnetIcon,
-  },
-  {
-    title: "ワンクリックデプロイメント",
-    content: "主要なウェブホスティングサービスと密接に統合し、即時にウェブサイトを公開。",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "グローバリゼーションサポート",
-    content: "複数言語をサポートし、グローバルな視聴者を魅了するウェブサイト。",
-    icon: FaEarthAsia,
-  },
+    title: "ステップ 3 - スマートなブラウジングを楽しむ",
+    content: "あらゆるウェブサイトでシームレスで状況に応じたAIアシスタンスを体験。生産性を向上させ、複雑なオンラインタスクを簡単に処理できます。",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 export const FEATURES_AR = [
   {
-    title: "ميزة المصدر المفتوح",
-    content: "مجانية بالكامل مع ثروة من خيارات التخصيص.",
-    icon: BsGithub,
+    title: "الخطوة 1 - أضف إلى المتصفح",
+    content: "ثبّت إضافة AutoSwitchPrompt بنقرة واحدة. إنها مجانية تمامًا، وتحترم خصوصيتك، وترفع فورًا من تجربة تصفحك للإنترنت.",
+    icon: BsDownload,
   },
   {
-    title: "تصميم متجاوب",
-    content: "تم تصميم القوالب بعناية لضمان عرض مثالي على أي جهاز.",
-    icon: FaMobileScreenButton,
+    title: "الخطوة 2 - خصص إشاراتك",
+    content: "اضبط بسهولة إشارات الذكاء الاصطناعي المفضلة لديك لمختلف المواقع. سيقوم AutoSwitchPrompt تلقائيًا بتطبيق الإشارة المناسبة لكل صفحة تزورها.",
+    icon: BsFillGearFill,
   },
   {
-    title: "تخصيص سهل",
-    content: "غير الألوان والخطوط والتخطيطات بسهولة دون الحاجة إلى معرفة بالبرمجة.",
-    icon: FaToolbox,
-  },
-  {
-    title: "مُحسّن لمحركات البحث",
-    content: "تم بناء القوالب مع مراعاة تحسين محركات البحث لتعزيز قابلية اكتشاف موقعك.",
-    icon: MagnetIcon,
-  },
-  {
-    title: "نشر بنقرة واحدة",
-    content: "متكاملة بشكل وثيق مع خدمات استضافة الويب الرائدة لنشر الموقع فوراً.",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "دعم العولمة",
-    content: "يدعم لغات متعددة، مما يجعل موقعك جذابًا لجمهور عالمي.",
-    icon: FaEarthAsia,
-  },
+    title: "الخطوة 3 - استمتع بتصفح أكثر ذكاءً",
+    content: "اختبر مساعدة ذكاء اصطناعي سلسة ومراعية للسياق عبر جميع المواقع، مما يزيد من إنتاجيتك ويبسط المهام المعقدة على الإنترنت دون جهد إضافي.",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 export const FEATURES_ES = [
   {
-    title: "Ventaja del Código Abierto",
-    content: "Completamente gratuito con una riqueza de opciones de personalización.",
-    icon: BsGithub,
+    title: "PASO 1 - Añadir al navegador",
+    content: "Instale la extensión AutoSwitchPrompt con un solo clic. Es gratuita, respeta su privacidad y mejora instantáneamente su experiencia de navegación.",
+    icon: BsDownload,
   },
   {
-    title: "Diseño Responsivo",
-    content: "Plantillas diseñadas meticulosamente para garantizar una visualización óptima en cualquier dispositivo.",
-    icon: FaMobileScreenButton,
+    title: "PASO 2 - Personalice sus prompts",
+    content: "Configure fácilmente sus prompts de IA favoritos para diferentes sitios web. AutoSwitchPrompt aplicará automáticamente el prompt adecuado en cada página que visite.",
+    icon: BsFillGearFill,
   },
   {
-    title: "Personalización Fácil",
-    content: "Cambia colores, fuentes y diseños sin esfuerzo y sin necesidad de conocimientos de codificación.",
-    icon: FaToolbox,
-  },
-  {
-    title: "Optimizado para SEO",
-    content: "Plantillas construidas con la optimización de motores de búsqueda en mente para mejorar la descubribilidad de tu sitio web.",
-    icon: MagnetIcon,
-  },
-  {
-    title: "Despliegue con Un Clic",
-    content: "Integrado estrechamente con servicios líderes de alojamiento web para la publicación instantánea del sitio web.",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "Soporte de Globalización",
-    content: "Soporta múltiples idiomas, haciendo tu sitio web atractivo para una audiencia global.",
-    icon: FaEarthAsia,
-  },
+    title: "PASO 3 - Disfrute de una navegación más inteligente",
+    content: "Experimente una asistencia de IA fluida y contextual en todos los sitios web, aumentando su productividad y simplificando tareas complejas en línea sin esfuerzo adicional.",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 export const FEATURES_RU = [
   {
-    title: "Преимущество Открытого Исходного Кода",
-    content: "Полностью бесплатно с широкими возможностями настройки.",
-    icon: BsGithub,
+    title: "ШАГ 1 - Добавить в браузер",
+    content: "Установите расширение AutoSwitchPrompt одним кликом. Оно бесплатное, защищает вашу конфиденциальность и мгновенно улучшает ваш опыт веб-серфинга.",
+    icon: BsDownload,
   },
   {
-    title: "Адаптивный Дизайн",
-    content: "Шаблоны, тщательно разработанные для обеспечения оптимального отображения на любом устройстве.",
-    icon: FaMobileScreenButton,
+    title: "ШАГ 2 - Настройте ваши подсказки",
+    content: "Легко настройте любимые AI-подсказки для разных сайтов. AutoSwitchPrompt автоматически применит нужную подсказку для каждой страницы, которую вы посещаете.",
+    icon: BsFillGearFill,
   },
   {
-    title: "Легкая Настройка",
-    content: "Легко изменяйте цвета, шрифты и макеты без знаний в области программирования.",
-    icon: FaToolbox,
-  },
-  {
-    title: "Оптимизировано для Поисковых Систем",
-    content: "Шаблоны созданы с учетом оптимизации для поисковых систем, чтобы повысить обнаруживаемость вашего сайта.",
-    icon: MagnetIcon,
-  },
-  {
-    title: "Развертывание в Один Клик",
-    content: "Плотно интегрировано с ведущими сервисами веб-хостинга для мгновенной публикации сайта.",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "Поддержка Глобализации",
-    content: "Поддерживает несколько языков, делая ваш сайт привлекательным для мировой аудитории.",
-    icon: FaEarthAsia,
-  },
+    title: "ШАГ 3 - Наслаждайтесь умным просмотром",
+    content: "Испытайте плавную, контекстно-зависимую AI-помощь на всех сайтах, повышая продуктивность и упрощая сложные онлайн-задачи без дополнительных усилий.",
+    icon: BsFillLightbulbFill,
+  }
 ];
 
 interface FeaturesCollection {

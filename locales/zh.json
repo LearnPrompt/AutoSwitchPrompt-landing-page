@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "自动切换",
-    "title2": "提示词",
-    "title3": "",
+    "title1": "",
+    "title2": "自动切换",
+    "title3": "提示词",
     "description": "为每个网页智能匹配您喜爱的AI提示，全程自动且完全免费。"
   },
   "SocialProof": {
@@ -13,7 +13,7 @@
     "description": "加入超过 1,000 名用户的行列，通过自动切换的上下文感知提示词提升网页体验"
   },
   "Feature": {
-    "title": "Feature"
+    "title": "使用方法"
   },
   "Pricing": {
     "title": "定价",

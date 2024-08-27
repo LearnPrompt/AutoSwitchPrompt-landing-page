@@ -1,5 +1,5 @@
-import { Makers } from "@/config/makers";
 import Image from "next/image";
+import { Makers } from "@/config/makers";
 
 const SocialProof = ({ locale }: { locale: any }) => {
   return (
@@ -20,7 +20,7 @@ const SocialProof = ({ locale }: { locale: any }) => {
           })}
         </div>
         <p className="text-sm text-slate-700 dark:text-slate-400">
-          <span className="text-primary font-semibold text-base">1000+</span>{" "}
+          <span className="text-primary font-semibold text-base">*</span>{" "}
           {locale.maker}
         </p>
       </div>
