@@ -6,10 +6,10 @@ export const TIERS_EN: Array<Tier> = [
   {
     key: TiersEnum.Free,
     title: "Free",
-    price: "This extension is free",
+    price: "Free",
     href: siteConfig.openSourceURL || "#",
     description:
-      "Experience AI-powered browsing without any cost",
+      "Experience AI browsing without any cost",
     features: [
       "Use all the features for free",
       "Basic prompt library access",
@@ -29,7 +29,7 @@ export const TIERS_EN: Array<Tier> = [
     features: [
       "X,000,000 token usage quota per month",
       "Set up to 100 custom prompt-switching rules",
-      "Automatically switch to the best prompt based on webpage content",
+      "Auto switch to the best prompt based on webpage",
       "Priority access to new features and updates",
       "Includes all free version features",
     ],
@@ -43,7 +43,7 @@ export const TIERS_ZH: Array<Tier> = [
   {
     key: TiersEnum.Free,
     title: "免费版",
-    price: "永久免费",
+    price: "免费",
     href: siteConfig.openSourceURL || "#",
     description: "体验无缝衔接的AI智能浏览",
     features: [
@@ -64,6 +64,7 @@ export const TIERS_ZH: Array<Tier> = [
     price: "$3.99 / month",
     features: [
       "每月X,000,000 token使用配额",
+      "设置多达100条自定义提示切换规则",
       "根据网页内容自动切换最佳提示",
       "优先访问新功能和更新",
       "包含所有免费版功能",
@@ -78,7 +79,7 @@ export const TIERS_JA: Array<Tier> = [
   {
     key: TiersEnum.Free,
     title: "無料プラン",
-    price: "この拡張機能は無料です",
+    price: "無料",
     href: siteConfig.openSourceURL || "#",
     description: "AI駆動のブラウジングを無料で体験",
     features: [
@@ -99,6 +100,7 @@ export const TIERS_JA: Array<Tier> = [
     price: "月額3.99ドル",
     features: [
       "月間X,000,000トークン使用枠",
+      "最大100個のカスタムプロンプト切り替えルールを設定する",
       "ウェブページの内容に基づき最適なプロンプトに自動切替",
       "新機能とアップデートへの優先アクセス",
       "無料版の全機能を含む",
@@ -118,6 +120,7 @@ export const TIERS_AR: Array<Tier> = [
     description: "استمتع بتجربة تصفح مدعومة بالذكاء الاصطناعي بدون أي تكلفة",
     features: [
       "استخدم جميع الميزات مجانًا",
+      "قم بإعداد ما يصل إلى 100 قاعدة مخصصة لتبديل الإرشادات",
       "الوصول إلى مكتبة الإشارات الأساسية",
       "إعداد ما يصل إلى 10 قواعد مخصصة لتبديل الإشارات",
       "استخدم مفتاح API الخاص بك للوصول إلى خدمات نماذج الذكاء الاصطناعي المختلفة",
@@ -170,6 +173,7 @@ export const TIERS_ES: Array<Tier> = [
     price: "$3.99 / month",
     features: [
       "Cuota de uso de X,000,000 tokens por mes",
+      "Configura hasta 100 reglas personalizadas de cambio de indicaciones",
       "Cambio automático al mejor prompt según el contenido de la página web",
       "Acceso prioritario a nuevas funciones y actualizaciones",
       "Incluye todas las funciones de la versión gratuita",
@@ -206,6 +210,7 @@ export const TIERS_RU: Array<Tier> = [
     price: "$3.99 / month",
     features: [
       "Ежемесячная квота X,000,000 токенов",
+      "Настройте до 100 пользовательских правил переключения подсказок",
       "Автоматическое переключение на лучший промпт на основе содержания веб-страницы",
       "Приоритетный доступ к новым функциям и обновлениям",
       "Включает все функции бесплатной версии",
