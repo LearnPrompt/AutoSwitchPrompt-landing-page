@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button";
-import { RocketIcon } from "lucide-react";
 import Link from "next/link";
+import { RocketIcon } from "lucide-react";
 
 const CTAButton = ({ locale }: { locale: any }) => {
   return (
     <Link
-      href="https://github.com/weijunext/landing-page-boilerplate"
+      href="https://aiwarts101.feishu.cn/wiki/LyYawoBUviAaSrknQBYcVzkoncf?from=from_copylink"
       target="_blank"
       rel="noopener noreferrer nofollow"
     >

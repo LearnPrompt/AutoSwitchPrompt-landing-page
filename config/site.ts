@@ -4,7 +4,7 @@ import { MdEmail } from "react-icons/md";
 import { SiBuymeacoffee } from "react-icons/si";
 import { SiteConfig } from "@/types/siteConfig";
 
-const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
+const OPEN_SOURCE_URL = 'https://github.com/LearnPrompt/AutoSwitchPrompt-landing-page'
 
 const baseSiteConfig = {
   name: "AutoSwitchPrompt",

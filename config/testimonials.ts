@@ -3,11 +3,11 @@ export const TestimonialsData = [
   {
     user: {
       name: "Founder",
-      username: "weijunext",
-      image: "/images/users/weijunext.jpeg",
+      username: "casperlee",
+      image: "/images/users/casper.jpg",
     },
     content:
-      "As a front-end developer, I'm highly satisfied with this landing page template. Editing text and images was very intuitive, and I encountered no technical hurdles throughout the process. The template's responsive design is excellent as well; whether on mobile or desktop, the page layout adapts perfectly. I managed to launch my own product's landing page in just half a day, significantly boosting my efficiency.",
+      "As the creator of AutoSwitchPrompt, I'm thrilled to see how it's revolutionizing web browsing. Our goal was to make AI assistance seamless and intuitive, and user feedback shows we're achieving that. It's exciting to see how users leverage our tool to boost their productivity across various online tasks",
   },
   {
     user: {
@@ -16,7 +16,7 @@ export const TestimonialsData = [
       image: "/images/users/1.png",
     },
     content:
-      "This template has given me a new perspective on coding. As a backend developer with not much front-end experience, I found this template to be very user-friendly. I could build a professional-looking landing page with hardly any coding required. This not only saved me time but also sparked more interest in front-end development.",
+      "AutoSwitchPrompt has transformed my online research. It automatically adjusts AI prompts for different academic sites, significantly speeding up my literature reviews. The custom rules feature is a game-changer, allowing me to set specific prompts for different research areas. It's saved me countless hours.",
   },
   {
     user: {
@@ -25,7 +25,7 @@ export const TestimonialsData = [
       image: "/images/users/2.png",
     },
     content:
-      "As a developer who transitioned from design, I'm impressed with the aesthetic design of this template. It's not only easy to use but also comes with a default design that feels both modern and professional. I made some adjustments to the details to match my brand style, and the entire process was both simple and enjoyable.",
+      "As a content creator, AutoSwitchPrompt has become my indispensable assistant. It switches AI prompts based on the platform I'm using, whether I'm writing, editing, or researching. Its flexibility, especially with multilingual content, has streamlined my workflow tremendously. It's boosted both my efficiency and content quality.",
   },
   {
     user: {
@@ -34,7 +34,7 @@ export const TestimonialsData = [
       image: "/images/users/3.png",
     },
     content:
-      "The performance of this template is outstanding, with very fast loading times and SEO-friendly features. As a developer focused on product optimization, I appreciate the high performance and optimization of the template. With simple modifications, I was able to further optimize my landing page, improving the speed at which users can access it. The SEO friendliness of the template also helped my page achieve better rankings in search engines.",
+      "AutoSwitchPrompt has made my online shopping experience smarter and more efficient. It adapts AI prompts for different e-commerce sites, helping me quickly compare products, read reviews, and even generate purchase decision suggestions. The privacy protection feature is a big plus, keeping my personal information safe.",
   },
   {
     user: {
@@ -43,7 +43,7 @@ export const TestimonialsData = [
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "In my online teaching, AutoSwitchPrompt has been a game-changer. It adjusts prompts for various educational websites and learning platforms, helping me quickly generate lesson plans, exercises, and personalized student feedback. Its multilingual support is fantastic for working with international students. It's significantly improved my teaching efficiency and quality.",
   },
   {
     user: {
@@ -52,7 +52,7 @@ export const TestimonialsData = [
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "As a developer, I'm impressed with AutoSwitchPrompt's technical implementation. Its performance optimization is excellent, with minimal impact on browsing speed. I love the custom API key feature, allowing flexible choice of AI services. Being open-source, I can understand its workings and even contribute code. It's not just boosted my productivity but also my professional growth.",
   },
   {
     user: {
@@ -61,7 +61,7 @@ export const TestimonialsData = [
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "AutoSwitchPrompt has become an essential tool in my digital marketing toolkit. It adapts prompts for different social media platforms and analytics tools, helping me quickly generate content ideas, analyze market trends, and even develop marketing strategies. The prompt library gives me easy access to industry best practices, greatly enhancing my efficiency and creative output.",
   },
   {
     user: {
@@ -70,6 +70,6 @@ export const TestimonialsData = [
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "As a freelance translator, AutoSwitchPrompt has significantly improved my workflow. It adjusts prompts for various online dictionaries and translation platforms, helping me quickly understand complex contexts and technical terms. Its context-aware function makes translations more accurate and natural. Supporting multiple languages, it perfectly meets my needs for various language combinations.",
   },
 ];
